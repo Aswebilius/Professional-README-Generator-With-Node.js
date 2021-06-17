@@ -6,12 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Aswebilius/Professional-README-Generator-With-Node.js.git"
   },
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Aswebilius/Professional-README-Generator-With-Node.js/issues"
   },
